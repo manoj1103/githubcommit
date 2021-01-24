@@ -1,0 +1,7 @@
+Type: IPython Notebook Extension
+Name: githubcommit
+Description: This extension enables the githubcommit button (from iPython 1)
+Link: readme.md
+Icon: commit.png
+Main: main.js
+Compatibility: 4.x
